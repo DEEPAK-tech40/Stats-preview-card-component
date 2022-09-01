@@ -4,7 +4,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
-![2022-09-01 (2)](https://user-images.githubusercontent.com/94350356/187874462-f8037d0a-9037-49a6-a824-c4ef58dc0898.png)
+![desktop-preview](https://user-images.githubusercontent.com/94350356/187878891-3e376bbf-00cd-4df0-a754-a00f9ffd6d6e.jpg)
 
 
 ### The challenge
@@ -42,4 +42,4 @@ Mobile-view:
 
 ## Author
 
-- Frontend Mentor - [@yourusername]()
+- Frontend Mentor - [@DEEPAK-tech40](https://www.frontendmentor.io/profile/DEEPAK-tech40)
